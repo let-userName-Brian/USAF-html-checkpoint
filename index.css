@@ -1,5 +1,5 @@
 body{
-    background-color:darkgray;
+    background-color: rgb(32, 31, 31);
 }
 
 #card {
@@ -7,3 +7,36 @@ body{
     margin-left: 30%;
     margin-top: 30%;
 }
+
+#movies {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#Wayne{
+    padding: 5pt;
+}
+
+#Jurassic{
+    padding: 5pt;
+}
+
+#Shining{
+    padding: 5pt;
+}
+
+#HomeAlone{
+    padding: 5pt;
+}
+
+#container{
+    display: flex;
+    columns: 2;
+    align-content: center;
+}
+
+#contents{
+   color: beige;
+   background-color: rgb(32, 31, 31);
+}
+
