@@ -1,0 +1,9 @@
+body{
+    background-color:darkgray;
+}
+
+#card {
+    display: flex;
+    margin-left: 30%;
+    margin-top: 30%;
+}
