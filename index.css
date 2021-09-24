@@ -11,22 +11,48 @@ body{
 #movies {
     display: flex;
     flex-wrap: wrap;
+    grid-template-columns: 4;
+    grid-template-rows: 2;
 }
 
-#Wayne{
+#Waynes-World{
     padding: 5pt;
+    width: 25%;
 }
 
 #Jurassic{
     padding: 5pt;
+    width: 25%;
 }
 
 #Shining{
     padding: 5pt;
+    width: 25%;
 }
 
 #HomeAlone{
     padding: 5pt;
+    width: 25%;
+}
+
+#Hellraiser{
+    padding: 5pt;
+    width: 25%;
+}
+
+#Pretty-Woman{
+    padding: 5pt;
+    width: 25%;
+}
+
+#IT{
+    padding: 5pt;
+    width: 25%;
+}
+
+#Major-Payne{
+    padding: 5pt;
+    width: 25%;
 }
 
 #container{
